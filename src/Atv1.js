@@ -20,3 +20,5 @@
   * as palavras "export default" seguido do nome do objeto, 
   * como "export default personagem"
   */
+const res = true
+export default res
