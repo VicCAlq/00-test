@@ -15,5 +15,5 @@
   *
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
-const res = false
+const res = true
 export default res
