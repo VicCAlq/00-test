@@ -1,6 +1,9 @@
-Data de atualização: Dia 08/06/2026 às 13:59:52
+Data de atualização: Dia 08/06/2026 às 14:22:41
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
 |---------|-----------|----------|---------|------------------|
-| ❌❌❌ | Ex ❌❌❌ | ❌❌❌ | ❌❌❌ | Autor do commit (envio) não corresponde ao dono da Branch |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
+| da | Ex iv | ❌ | ❌ | AssertionError: expected 'true' to be type of 'boolean' |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
