@@ -1,6 +1,9 @@
-Data de atualização: Dia 08/06/2026 às 14:25:28
+Data de atualização: Dia 11/06/2026 às 13:53:01
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
 |---------|-----------|----------|---------|------------------|
-| ❌❌❌ | Ex ❌❌❌ | ❌❌❌ | ❌❌❌ | Autor do commit (envio) não corresponde ao dono da Branch |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
+| da | Ex iv | ✅ | ✅ | Nenhum erro |
